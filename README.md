@@ -1,6 +1,6 @@
 Open CMD 
 
-```git clone https://github.com/DevulapalliTharun/Ipl_predictor.git```
+```git clone https://github.com/Syed-99/IPL-win-predictor-ml-project.git```
 
 ````cd Ipl_predictor````
 
